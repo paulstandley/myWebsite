@@ -1,0 +1,6 @@
+
+function windowFunction(evt) {
+
+}
+
+windowFunction();
